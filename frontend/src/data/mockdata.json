@@ -1,0 +1,114 @@
+[
+    {
+        "id": "1",
+        "img": "e1.jpg",
+        "adress": "Egøjevej 8",
+        "postalcode": "4600 køge",
+        "housetype": "villa"
+    },
+    {
+        "id": "2",
+        "img": "e2.jpg",
+        "adress": "Bogfinkevej 13, HF. Møllevang",
+        "postalcode": "2791 Dragør",
+        "housetype": "fritidshus"
+    },
+    {
+        "id": "3",
+        "img": "e3.jpg",
+        "adress": "Alleen 84, 2. th.",
+        "postalcode": "2770 Kastrup",
+        "housetype": "ejerlejlighed"
+    },
+    {
+        "id": "4",
+        "img": "e4.jpg",
+        "adress": "Følfodvej 38",
+        "postalcode": "2300 København S",
+        "housetype": "villa"
+    },
+    {
+        "id": "5",
+        "img": "e5.jpg",
+        "adress": "Digevej 38, st. tv.",
+        "postalcode": "2300 København S",
+        "housetype": "ejerlejlighed"
+    },
+    {
+        "id": "6",
+        "img": "e6.jpg",
+        "adress": "Valnøddehaven 8",
+        "postalcode": "4681 Herfølge",
+        "housetype": "villa"
+    },
+    {
+        "id": "7",
+        "img": "e7.jpg",
+        "adress": "Skolevej 10C",
+        "postalcode": "2690 Karlslunde",
+        "housetype": "rækkehus"
+    },
+    {
+        "id": "8",
+        "img": "e8.jpg",
+        "adress": "Jansvej 1, 2. 4.",
+        "postalcode": "2300 København S",
+        "housetype": "ejerlejlighed"
+    },
+    {
+        "id": "9",
+        "img": "e9.jpg",
+        "adress": "Ålandsgade 3, 2. th.",
+        "postalcode": "2300 København S",
+        "housetype": "ejerlejlighed"
+    },
+    {
+        "id": "10",
+        "img": "e10.jpg",
+        "adress": "Milanovej 16",
+        "postalcode": "2300 Købenahvn S",
+        "housetype": "villa"
+    },
+    {
+        "id": "11",
+        "img": "e11.jpg",
+        "adress": "Kastrupkrogen 17, 3. th.",
+        "postalcode": "2770 Kastrup",
+        "housetype": "ejerlejlighed"
+    },
+    {
+        "id": "12",
+        "img": "e12.jpg",
+        "adress": "Merkur Alle 24",
+        "postalcode": "2770 Kastrup",
+        "housetype": "villa"
+    },
+    {
+        "id": "13",
+        "img": "e13.jpg",
+        "adress": "Anders Henriksens Gade 7, 1. th.",
+        "postalcode": "2300 Købenahvn S",
+        "housetype": "ejerlejlighed"
+    },
+    {
+        "id": "14",
+        "img": "e14.jpg",
+        "adress": "Gammelgang 26",
+        "postalcode": "2300 København S",
+        "housetype": "villa"
+    },
+    {
+        "id": "15",
+        "img": "e15.jpg",
+        "adress": "Venedigvej 1, 4. tv.",
+        "postalcode": "2300 København S",
+        "housetype": "ejerlejlighed"
+    },
+    {
+        "id": "16",
+        "img": "e16.jpg",
+        "adress": "Hollands Allé 4",
+        "postalcode": "2300 København S",
+        "housetype": "villa"
+    }
+]
